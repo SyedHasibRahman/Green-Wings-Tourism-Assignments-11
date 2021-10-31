@@ -1,7 +1,7 @@
 import React from 'react';
 import Services from '../../Services/Services/Services';
 import Slider from '../Slider/Slider';
-import Testimonial from '../Testimonial/Testimonial';
+import Testimonials from '../Testimonial2/Testimonials';
 import Why from '../Why/Why';
 
 const Home = () => {
@@ -10,7 +10,8 @@ const Home = () => {
             <Slider></Slider>
             <Why></Why>
             <Services></Services>
-            <Testimonial></Testimonial>
+            {/* <Testimonial></Testimonial> */}
+            <Testimonials></Testimonials>
         </div>
     );
 };

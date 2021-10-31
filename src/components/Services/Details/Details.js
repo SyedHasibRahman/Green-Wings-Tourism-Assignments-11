@@ -14,21 +14,22 @@ const Details = () => {
     const [services] = useServices();
     const [detail, setDetail] = useState({});
     const { users } = useAuth();
-
     const location = useLocation();
     const history = useHistory();
     const redirect_uri = location.state?.from || '/MyBooking';
-    console.log(detail);
+    // console.log(detail);
     const { register, handleSubmit } = useForm();
     const onSubmit = data => {
-        axios.post('http://localhost:5000/orders', data)
+        // console.log(data);
+        axios.post('https://scary-castle-42994.herokuapp.com/orders', data)
             .then(res => {
                 console.log(res)
                 if (res.data.insertedId) {
                     alert('Booking Successful!');
                     history.push(redirect_uri);
+
                 }
-            })
+            });
     };
 
     useEffect(() => {
@@ -51,10 +52,8 @@ const Details = () => {
                     <hr className="border-info border-3" />
                     <p>{detail?.description}</p>
                     <div className="row">
-                        {/* <div className="col-md-6 mb-3">
-                            <button className="btn btn-info text-white ">Visiting Fee: ${detail?.price}</button></div> */}
                         <div className="col-md-6">
-                            <Link to="/services"><button className="btn btn-danger text-white ">Services </button></Link>
+                            <Link to="/services"><button className="btn btn-danger text-white ">Services</button></Link>
                         </div>
 
                     </div>
@@ -65,9 +64,9 @@ const Details = () => {
                     <h2 className="pt-4">Shipping & Billing</h2>
                     {/* <input type="date" /> */}
                     <form onSubmit={handleSubmit(onSubmit)}>
-                        <input {...register("name", { required: true, maxLength: 200 })} value={users?.displayName || ''} />
-                        <input {...register("email")} value={users?.email || ''} />
-                        {/* <input type="number" {...register("price")} value={detail?.price || ''} /> */}
+                        <input {...register("name", { required: true, maxLength: 200 })} value={users.displayName || ''} />
+                        <input {...register("email")} value={users.email || ''} />
+
                         <input type="date" {...register("date", { required: true })} />
                         <input {...register("address", { required: true })} placeholder="Address" />
                         <input {...register("phone", { required: true })} placeholder="Phone Number" />

@@ -48,6 +48,12 @@ const Header = () => {
                                                 </li>
                                                 <li className="nav-item">
                                                     {users?.email ?
+                                                        <Link className="nav-link active" aria-current="page" to="/AdminPanel">Admin Panel</Link> :
+                                                        ''
+                                                    }
+                                                </li>
+                                                <li className="nav-item">
+                                                    {users?.email ?
                                                         <button onClick={logOut} className="btn btn-light">LogOut</button> :
                                                         <Link className="nav-link active" aria-current="page" to="/Login">Login</Link>
                                                     }
