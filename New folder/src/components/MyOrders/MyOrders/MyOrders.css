@@ -1,0 +1,15 @@
+.MyOrders{
+    justify-content: center;
+    align-items: center;
+}
+.MyOrders img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid green;
+    transition: 1s;
+
+}
+.MyOrders img:hover{
+    transform: scale(1.2);
+}

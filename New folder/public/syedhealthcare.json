@@ -1,0 +1,136 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Historical Archaeological Tour",
+      "price": 2000,
+      "info": "Arrive Dhaka airport & transfer to hotel. If time permits half day city tour to Sadarghat River front, old Hindu temples, Lalbag Fort of Mughal Empire, Museum, Shahid Minar and Curzon Hall ",
+      "description": "Leave Dhaka for Moinamaoti, Comilla at 0800Hrs. On the way, visit Sonargaon, the Ancient Capital of Bengal, which was built 15th Century. An interesting folk museum here. After lunch, you will visit Moinamoti, Salban Vihara the relics of old Buddhist Civilization. Its an extensive center of Buddhist Culture of 7th-12th Century. The attractions include, Buddhist Vihara (monastery) with imposing central shrine, Kotia Mura etc. Back to Dhaka at evening & Night Halt.",
+      "img": "https://html.geekcodelab.com/holiday-planners/assets/images/tour-box-image1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dhaka-Rangamati-Bandarban-Dhaka",
+      "price": 3000,
+      "info": "Hotel check in and refresh. Start cruise on kaptai lake, go to Subholong by boat, see Hanging Bridge, visit Peda Ting Ting and Tuk Tuk Eco Village. Evening.. Back to hotel. Overnight at Rangamati.",
+      "description": "Hotel check in and refresh. Start cruise on kaptai lake, go to Subholong by boat, see Hanging Bridge, visit Peda Ting Ting and Tuk Tuk Eco Village. Evening.. Back to hotel. Overnight at Rangamati. After breakfast, start our journey to Nilgiri, This day we also visit Chimbuk and Shoilopropat. After dinner, Start for Dhaka by Night Coach. Overnight Journey.",
+      "img": "https://html.geekcodelab.com/holiday-planners/assets/images/tour-box-image2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dhaka-Khulna- Sundarban - Dhaka",
+      "price": 4000,
+      "info": "We start this tour any time of the day and the duration will be 6 to 7 hours. Tour guide will pick you up from your nominated place / hotel and the tour will move through the destinations below:",
+      "description": "Leave Dhaka at 22:30 pm by reserved AC Night Coach for Khulna. Arrival at Khulna in the early morning, and will be transferred to our boat and immediately the boat will start cruising towards the Sundarbans Forest. We’ll arrive at Kotka around 1600 hrs. In the late afternoon hiking in the Kotka forest area to see wild life and forest. Overnight at Kotka on the boat.",
+      "img": "https://html.geekcodelab.com/holiday-planners/assets/images/tour-box-image3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cox's Bazar",
+      "price": 5000,
+      "info": "Cox's Bazar at 08 am. Breakfast and short beach tour. After lunch, start journey to Inani Beach, Himchhari Falls. Back to coxs bazar sea beach. Enjoy Sunset and night beach, Overnight at Cox's Bazar.",
+      "description": "Cox's Bazar at 08 am. Breakfast and short beach tour. After lunch, start journey to Inani Beach, Himchhari Falls. Back to coxs bazar sea beach. Enjoy Sunset and night beach, Overnight at Cox's Bazar. Enjoy the morning beach. After lunch, start for Moheshkhali Island by boat. Back to cox's bazar and visit barmiz market. Overnight at Cox's Bazar. After Breakfast, pack-up baggages and start for Dulahazara Safari Park. back to cox's bazar in the evening. Take dinner. Start for Dhaka by Night Coach. Overnight Journey.",
+      "img": "https://html.geekcodelab.com/holiday-planners/assets/images/tour-box-image4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Dhaka - Saint Martins - Dhaka",
+      "price": 6000,
+      "info": "Leave Dhaka for Teknaf by reserved car/coach - Overnight journey. After breakfast at Teknaf start cruise by sea truck to St. Martins Island. Reach Saint Martin Coral Island within afternoon.",
+      "description": "After breakfast at Teknaf start cruise by sea truck to St. Martins Island. Reach Saint Martin Coral Island within afternoon. After Lunch relax for a while and then enjoy the beauty of St. Martins Island - watch the memorable sunset. Overnight at St. Martins Island. Enjoy the beauty of sunrise from the beach in early morning. After Breakfast, Start journey to Chhera Dwip. Spend some times there, enjoy the living corals and small fishes swimming. Back to saint martins island. After lunch and refresh, rest or beach tour. Watch sunset from beach. Overnight at St. Martins Island.",
+      "img": "https://roam.qodeinteractive.com/wp-content/uploads/2017/08/h4-masonry-gallery-img-2.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dhaka - Kuakata - Dhaka",
+      "price": 7000,
+      "info": "Leave Dhaka for Kuakata at 08:00 pm by Bus. This will be an overnight journey. Hotel check-in and refresh. Go to beach to enjoy sea. After lunch go to Rakhain Tribe village to see their lifestyle. ",
+      "description": "Hotel check-in and refresh. Go to beach to enjoy sea. After lunch go to Rakhain Tribe village to see their lifestyle. Back to beach and enjoy sunset. Enjoy fabulous beauty of sunrise from the beach in early morning. Go to Fatra Mangrove forest. Watch the beauty of sunset from beach. This is the only sea beach in Bangladesh where you can enjoy sunrise and sunset from the same beach. ",
+      "img": "https://roam.qodeinteractive.com/wp-content/uploads/2017/08/h4-masonry-gallery-img-4.jpg"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "name": "HOW TO TAKE BETTER PORTRAITS WHEN TRAVELING",
+      "price": 2000,
+      "time": 2,
+      "description": "Experiencing the world with your own eyes is special for so many reasons. Yet, we all know the struggle of trying to convey what you’ve seen and learned while traveling in a tangible and memorable way. Of course, photography can be a great way to preserve special life moments. But how can you get the best portraits of the people you meet so you can have memories that last a lifetime? What can you do to make your portraits different from other travel snaps? What techniques can you",
+      "img": "https://www.nomadicmatt.com/wp-content/uploads/2021/10/PhoebeBowdige_TNN-1536x864.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "PUERTO RICO – EXPLORE BEYOND THE SHORES",
+      "price": 3000,
+      "time": 2,
+      "description": "When we think of Puerto Rico, we all probably think of similar scenes: San Juan's colonial charm El Yunque's natural beauty Yet, there is much more to Puerto Rico beyond the Metro area! Take it from the Puerto Rican content creator, José Lebron Burgos. He's explored all corners of this popular vacation destination. He's here to shows us why and how to go beyond the shores of Puerto Rico.",
+      "img": "https://www.nomadicmatt.com/wp-content/uploads/2021/10/JoseBurgos_TNN-1536x864.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "INDIE PUBLISHING & BECOMING A BESTSELLER",
+      "price": 4000,
+      "time": 2,
+      "description": "Luke Richardson remembers writing the words the end on the first draft of his debut novel. He sat back, looked at the ceiling, and was suddenly and painfully struck by a thought. What now?! Luke had spent so many months (maybe even years) planning, drafting, and practicing his writing that he had no idea what to do once he actually finished. Months of intense research followed, at the end of which Luke decided to publish his books independently. He has now written eight in two seri...",
+      "img": "https://www.nomadicmatt.com/wp-content/uploads/2021/10/LukeRichardson_pub_TNN-1536x864.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "THE BEST WALKING TOURS IN NEW ORLEANS",
+      "price": 5000,
+      "time": 2,
+      "description": "Slavery was the driving force behind the economy during this time, as New Orleans had the nation’s busiest slave market. Yet at the same time, the city was home to the largest and most prosperous community of free persons of color. Following the Civil War and the Emancipation Proclamation, the city’s predominantly Black population fought for their rights, equality, and dignity, gaining some and yet continuing to struggle for others.",
+      "img": "https://media.nomadicmatt.com/2021/nolawalkingtour.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Shape",
+      "price": 6000,
+      "time": 2,
+      "description": "The website for fitness magazine Shape has tons of free articles, including step-by-step workouts, nutrition advice, and mental health insights. There are also weight-loss tips and plans and videos.",
+      "img": "https://i.ibb.co/0Yr82gT/Blog-5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "CROATIA ITINERARIES: FROM ONE WEEK TO A MONTH!",
+      "price": 7000,
+      "time": 2,
+      "description": "While most travelers seem to just pop into Dubrovnik or Split for a few days, there’s so much more to the country that, I think, is even better than the famed Dalmatian Coast. A lot of people spend a week on the coast and go home. That’s not how you should really see the country. I’d suggest at least two weeks so you can get off the coast. But an entire month would allow you to cover most of the country and spend enough time in each place to feel like you got a sense of it before moving on to the next.",
+      "img": "https://media.nomadicmatt.com/2021/croatiaitinerarymain.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "name": "Helen Keller",
+      "price": 2000,
+      "time": 2,
+      "description": "To me a lush carpet of pine needles or spongy grass is more welcome than the most luxurious Persian rug",
+      "img": "https://i.ibb.co/dDjzLHb/nature-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Albert Einstein",
+      "price": 3000,
+      "time": 2,
+      "description": "Look deep into nature, and then you will understand everything better.",
+      "img": "https://i.ibb.co/P4vp4zc/nature-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Khalil Gibran",
+      "price": 4000,
+      "time": 2,
+      "description": "Forget not that the earth delights to feel your bare feet and the winds long to play with your hair.",
+      "img": "https://i.ibb.co/0rzrpg9/nature-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Alice Walker",
+      "price": 5000,
+      "time": 2,
+      "description": "In nature, nothing is perfect and everything is perfect.",
+      "img": "https://i.ibb.co/0KSQb5m/nature-4.jpg"
+    }
+  ]
+}

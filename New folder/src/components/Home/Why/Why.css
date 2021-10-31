@@ -1,0 +1,18 @@
+.why-bg{
+    background: #2b2b2b;
+    color: aliceblue;
+    padding: 40px;
+}
+.why-img{
+    border: 2px solid white;
+    transition: 1s; 
+}
+.why-img:hover{
+    transform: scale(.9);
+    overflow: hidden;
+}
+.why-bg p{
+    font-size: 14px;
+    font-weight: 300;
+    text-align: justify;
+}
