@@ -53,7 +53,7 @@ const AllOrders = () => {
                             <div className="col-md-3">
                                 <img className="All-order-img" src={order.img} alt="" />
                             </div>
-                            <div className="col-md-6">
+                            <div className="col-md-5">
                                 <h6 className="pt-4">{order.title}</h6>
                                 <h6 className="pt-4">{order.email}</h6>
                             </div>

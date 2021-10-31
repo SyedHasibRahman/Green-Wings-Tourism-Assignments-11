@@ -48,7 +48,13 @@ const Header = () => {
                                                 </li>
                                                 <li className="nav-item">
                                                     {users?.email ?
-                                                        <Link className="nav-link active" aria-current="page" to="/AdminPanel">Admin Panel</Link> :
+                                                        <Link className="nav-link active" aria-current="page" to="/AllOrders">AllOrders</Link> :
+                                                        ''
+                                                    }
+                                                </li>
+                                                <li className="nav-item">
+                                                    {users?.email ?
+                                                        <Link className="nav-link active" aria-current="page" to="/AddServices">AddServices</Link> :
                                                         ''
                                                     }
                                                 </li>

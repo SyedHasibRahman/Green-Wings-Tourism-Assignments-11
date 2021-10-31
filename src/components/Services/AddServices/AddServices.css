@@ -1,0 +1,12 @@
+.AddServices form{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+}
+.AddServices form input,textarea{
+    background: #333;
+    width: 40%;
+    margin:10px;
+    color: azure;
+}

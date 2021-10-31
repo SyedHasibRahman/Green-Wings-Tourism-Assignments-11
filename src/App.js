@@ -15,6 +15,7 @@ import PrivateRoute from './components/Auth/PrivateRoute/PrivateRoute';
 import Registration from './components/Auth/Registration/Registration';
 import MyOrders from './components/MyOrders/MyOrders/MyOrders';
 import AllOrders from './components/MyOrders/AllOrders/AllOrders';
+import AddServices from './components/Services/AddServices/AddServices';
 
 function App() {
   return (
@@ -53,8 +54,11 @@ function App() {
             <PrivateRoute path="/MyBooking">
               <MyOrders></MyOrders>
             </PrivateRoute>
-            <PrivateRoute path="/AdminPanel">
+            <PrivateRoute path="/AllOrders">
               <AllOrders></AllOrders>
+            </PrivateRoute>
+            <PrivateRoute path="/AddServices">
+              <AddServices></AddServices>
             </PrivateRoute>
             <Route path="*">
               <PageNotFound></PageNotFound>
